@@ -5,14 +5,17 @@ def is_multiple_of_3_or_5?(number) # rubocop:disable Naming/PredicatePrefix
 
   false
 end
+# Aichetou le code a fonctionner
 
  def sum_of_3_or_5_multiples(final_number)
 
      final_sum = 0 
-      
+      # Aichetou le code a fonctionner
+
       
      (0...final_number).each do |number|
 
+# Aichetou le code a fonctionner
 
      
      if is_multiple_of_3_or_5?(number) 
