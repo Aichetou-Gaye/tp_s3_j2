@@ -1,6 +1,8 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-ruby '3.3.0'
+source 'https://rubygems.org'
+
+ruby '3.1.4'
 
 gem 'rspec'
 
